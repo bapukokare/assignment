@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T06:36:51.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="IlEZU3Qauw9q6yCPN_s0" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T06:53:00.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="77Lh7KSOWueutBXL_O_Z" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1035" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,18 +108,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FghAwVlYM-51BivzsXSn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;endArrow=block;strokeColor=#A8201A;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2pAuPayRn_TbidIDk1us-32" target="2pAuPayRn_TbidIDk1us-81">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="680" y="600" />
-              <mxPoint x="680" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FghAwVlYM-51BivzsXSn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;strokeColor=#A8201A;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2pAuPayRn_TbidIDk1us-32" target="FghAwVlYM-51BivzsXSn-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2pAuPayRn_TbidIDk1us-32" value="Send&lt;br&gt;measure object distance&lt;br&gt;&amp;nbsp;periodically" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="2pAuPayRn_TbidIDk1us-32" value="Periodically&lt;br&gt;&amp;nbsp;send measurements&lt;br&gt;of the next object&lt;br&gt;&amp;nbsp;distance" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="515" y="540" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2pAuPayRn_TbidIDk1us-34" value="Yes" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -204,6 +196,14 @@
         </mxCell>
         <mxCell id="FghAwVlYM-51BivzsXSn-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;endArrow=block;strokeColor=#A8201A;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2pAuPayRn_TbidIDk1us-81" target="2pAuPayRn_TbidIDk1us-26">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FghAwVlYM-51BivzsXSn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;endArrow=block;strokeColor=#A8201A;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2pAuPayRn_TbidIDk1us-81" target="2pAuPayRn_TbidIDk1us-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="340" />
+              <mxPoint x="680" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2pAuPayRn_TbidIDk1us-81" value="calculate next object distance with radar senor" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520.5" y="315" width="120" height="50" as="geometry" />
