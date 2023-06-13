@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T06:25:47.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="WhWeGKDPiYVVb5IE9lZx" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-13T06:36:51.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="IlEZU3Qauw9q6yCPN_s0" version="21.3.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1035" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,6 +116,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="FghAwVlYM-51BivzsXSn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;endArrow=block;strokeColor=#A8201A;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2pAuPayRn_TbidIDk1us-32" target="FghAwVlYM-51BivzsXSn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2pAuPayRn_TbidIDk1us-32" value="Send&lt;br&gt;measure object distance&lt;br&gt;&amp;nbsp;periodically" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="515" y="540" width="130" height="120" as="geometry" />
         </mxCell>
@@ -141,7 +144,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2pAuPayRn_TbidIDk1us-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;strokeColor=#A8201A;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2pAuPayRn_TbidIDk1us-51" target="2pAuPayRn_TbidIDk1us-69" edge="1">
+        <mxCell id="FghAwVlYM-51BivzsXSn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;endArrow=block;strokeColor=#A8201A;endFill=0;endSize=8;strokeWidth=1;shadow=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2pAuPayRn_TbidIDk1us-51" target="2pAuPayRn_TbidIDk1us-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2pAuPayRn_TbidIDk1us-51" value="Is the &lt;br&gt;distance&lt;br&gt;&amp;nbsp;to the next object &lt;br&gt;greater than the set threshold &lt;br&gt;of 10 m?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -162,7 +165,7 @@
           <mxGeometry x="130" y="700" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2pAuPayRn_TbidIDk1us-66" value="No" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;labelBackgroundColor=none;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="225" y="850" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="860" width="35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2pAuPayRn_TbidIDk1us-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;fontColor=default;strokeColor=#A8201A;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2pAuPayRn_TbidIDk1us-69" target="2pAuPayRn_TbidIDk1us-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -207,6 +210,9 @@
         </mxCell>
         <mxCell id="2pAuPayRn_TbidIDk1us-87" value="Stop" style="whiteSpace=wrap;html=1;rounded=0;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="167.5" y="1120" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FghAwVlYM-51BivzsXSn-3" value="manual Stop CTRL+C" style="whiteSpace=wrap;html=1;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;rounded=0;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530.5" y="700" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
