@@ -1,9 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T07:42:49.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" version="21.3.8" etag="pGbzMp_8ziOk_P3dS1EQ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T08:31:20.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="Cv-rCcUTxvVBwZXpJsPp" version="21.3.8" type="github">
   <diagram name="Page-1" id="iOJ7nJUNVYEBUDQMrWRL">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-24" value="Convergent and termination" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-64" value="Initial model training" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="10" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-65" value="Continous learning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="150" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-64" target="CzOLXgxaiCzq6wpnYxIb-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-67" value="Data processing" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="290" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-65" target="CzOLXgxaiCzq6wpnYxIb-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-70" target="CzOLXgxaiCzq6wpnYxIb-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-70" value="Model update" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="430" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-67" target="CzOLXgxaiCzq6wpnYxIb-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-72" value="Benefit of incremental learning for dynamic adaptive powertrain control&lt;br&gt;1. Real time adaptation&lt;br&gt;2. knowledge preservation&lt;br&gt;3. Efficiency and scalabiltiy&lt;br&gt;4. Fault tolerance" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="10" y="690" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-73" value="Challenges incremental learning for dynamic adaptive powertrain control&lt;br&gt;1. Catastrophic forgetting&lt;br&gt;2. Data quality and bias&amp;nbsp;&lt;br&gt;3. model complexity&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="294" y="690" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-74" value="Incremental learning for dynamic adaptation" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="10" y="500" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-75" value="Convergent and termination" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="600" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.558;exitY=0.983;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-75" target="CzOLXgxaiCzq6wpnYxIb-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="570" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="667" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.417;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-93" target="CzOLXgxaiCzq6wpnYxIb-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-93" value="Adaptation and Feedback loop" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="510" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-1" value="Initiatlization" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-2" value="Data Acquisition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-1" target="CzOLXgxaiCzq6wpnYxIb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-4" value="Prediction and error calculations" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-2" target="CzOLXgxaiCzq6wpnYxIb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-6" value="Parameter Update" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-4" target="CzOLXgxaiCzq6wpnYxIb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-8" value="Adaptation and learning" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-6" target="CzOLXgxaiCzq6wpnYxIb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-10" value="Convergent and termination" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="710" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-8" target="CzOLXgxaiCzq6wpnYxIb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-12" value="Benefit of&amp;nbsp;gradient descent for adaptive powertrain control&lt;br&gt;1. Real time adaptation&lt;br&gt;2. Efficiency and scalability&lt;br&gt;3. Customization and fine tuning&lt;br&gt;4. Dynamic optimization" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="10" y="120" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-13" value="Challenges of gradient descent for adaptive powertrain control&lt;br&gt;&lt;br&gt;1. Concept Drift&lt;br&gt;2. Data Quality and noise&amp;nbsp;&lt;br&gt;3. Model complexity&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-27" value="Gradient Descent algorithm" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-15" value="Initiatlization" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-17" value="Data Acquisition" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-15" target="CzOLXgxaiCzq6wpnYxIb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-19" value="Data sampling" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="290" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-17" target="CzOLXgxaiCzq6wpnYxIb-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-21" value="Gradient calculation" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="CzOLXgxaiCzq6wpnYxIb-19" target="CzOLXgxaiCzq6wpnYxIb-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-25" value="Benefit of stochastic gradient descent for adaptive powertrain control&lt;br&gt;1. Efficiency and scalability&lt;br&gt;2. Real time adaptation&lt;br&gt;3. Regularization and generalization&lt;br&gt;4. Dynamic optimization" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="10" y="360" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-26" value="Challenges stochastic of gradient descent for adaptive powertrain control&lt;br&gt;&lt;br&gt;1. Learning Rate selection&lt;br&gt;2. Noise and outliers&amp;nbsp;&lt;br&gt;3. Local optima" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="300" y="360" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-28" value="Stochastic Gradient Descent algorithm&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-31" value="Convergent and termination" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-32" value="Convergent and termination" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
