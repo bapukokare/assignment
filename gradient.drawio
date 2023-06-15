@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T08:31:20.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="Cv-rCcUTxvVBwZXpJsPp" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T08:38:21.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="SxOy9bDZP2F8-XSaGcwG" version="21.3.8" type="github">
   <diagram name="Page-1" id="iOJ7nJUNVYEBUDQMrWRL">
-    <mxGraphModel dx="880" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="CzOLXgxaiCzq6wpnYxIb-72" value="Benefit of incremental learning for dynamic adaptive powertrain control&lt;br&gt;1. Real time adaptation&lt;br&gt;2. knowledge preservation&lt;br&gt;3. Efficiency and scalabiltiy&lt;br&gt;4. Fault tolerance" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="10" y="690" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CzOLXgxaiCzq6wpnYxIb-73" value="Challenges incremental learning for dynamic adaptive powertrain control&lt;br&gt;1. Catastrophic forgetting&lt;br&gt;2. Data quality and bias&amp;nbsp;&lt;br&gt;3. model complexity&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-73" value="Challenges incremental learning for dynamic adaptive powertrain control&lt;br&gt;1. Catastrophic forgetting&lt;br&gt;2. Data quality and bias&amp;nbsp;&lt;br&gt;3. model complexity&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="294" y="690" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CzOLXgxaiCzq6wpnYxIb-74" value="Incremental learning for dynamic adaptation" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -97,7 +97,7 @@
         <mxCell id="CzOLXgxaiCzq6wpnYxIb-12" value="Benefit of&amp;nbsp;gradient descent for adaptive powertrain control&lt;br&gt;1. Real time adaptation&lt;br&gt;2. Efficiency and scalability&lt;br&gt;3. Customization and fine tuning&lt;br&gt;4. Dynamic optimization" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="10" y="120" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CzOLXgxaiCzq6wpnYxIb-13" value="Challenges of gradient descent for adaptive powertrain control&lt;br&gt;&lt;br&gt;1. Concept Drift&lt;br&gt;2. Data Quality and noise&amp;nbsp;&lt;br&gt;3. Model complexity&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-13" value="Challenges of gradient descent for adaptive powertrain control&lt;br&gt;&lt;br&gt;1. Concept Drift&lt;br&gt;2. Data Quality and noise&amp;nbsp;&lt;br&gt;3. Model complexity&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="300" y="120" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CzOLXgxaiCzq6wpnYxIb-27" value="Gradient Descent algorithm" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
@@ -132,7 +132,7 @@
         <mxCell id="CzOLXgxaiCzq6wpnYxIb-25" value="Benefit of stochastic gradient descent for adaptive powertrain control&lt;br&gt;1. Efficiency and scalability&lt;br&gt;2. Real time adaptation&lt;br&gt;3. Regularization and generalization&lt;br&gt;4. Dynamic optimization" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="10" y="360" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CzOLXgxaiCzq6wpnYxIb-26" value="Challenges stochastic of gradient descent for adaptive powertrain control&lt;br&gt;&lt;br&gt;1. Learning Rate selection&lt;br&gt;2. Noise and outliers&amp;nbsp;&lt;br&gt;3. Local optima" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="CzOLXgxaiCzq6wpnYxIb-26" value="Challenges stochastic of gradient descent for adaptive powertrain control&lt;br&gt;&lt;br&gt;1. Learning Rate selection&lt;br&gt;2. Noise and outliers&amp;nbsp;&lt;br&gt;3. Local optima" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="300" y="360" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CzOLXgxaiCzq6wpnYxIb-28" value="Stochastic Gradient Descent algorithm&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
