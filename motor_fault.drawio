@@ -1,9 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T11:43:23.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" version="21.3.8" etag="GHKF4UAOCB2s9y6xEUSq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T12:06:22.377Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="5o9khhb8wnvQIkQKgD9U" version="21.3.8" type="github">
   <diagram name="Page-1" id="U-UrUQo0M9kETeaTP2qX">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="1334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C3zl8ZpjMYid1egTlvav-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="C3zl8ZpjMYid1egTlvav-1" target="C3zl8ZpjMYid1egTlvav-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="C3zl8ZpjMYid1egTlvav-1" target="C3zl8ZpjMYid1egTlvav-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-376" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1" source="C3zl8ZpjMYid1egTlvav-1" target="C3zl8ZpjMYid1egTlvav-375">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-1" value="Motor Fault&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="350" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-385" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1" source="C3zl8ZpjMYid1egTlvav-2" target="C3zl8ZpjMYid1egTlvav-380">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-2" value="5. Phase to phase fault,&amp;nbsp;&lt;br&gt;6. insulation degradation&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="C3zl8ZpjMYid1egTlvav-4" target="C3zl8ZpjMYid1egTlvav-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-381" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1" source="C3zl8ZpjMYid1egTlvav-4" target="C3zl8ZpjMYid1egTlvav-380">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-4" value="1. Voltage supply fault&amp;nbsp;&lt;br&gt;2. Sensor feedback fault,&amp;nbsp;&lt;br&gt;3. Commutation fault&amp;nbsp;&lt;br&gt;4. Controller inverter fault," style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="110" y="57.5" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-379" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1" source="C3zl8ZpjMYid1egTlvav-6" target="C3zl8ZpjMYid1egTlvav-378">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-389" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1" source="C3zl8ZpjMYid1egTlvav-6" target="C3zl8ZpjMYid1egTlvav-383">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-6" value="7. Bearing Fault,&amp;nbsp;&lt;br&gt;8. Overload fault,&lt;br&gt;9. alignment&lt;br&gt;10. Overcurrent&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-9" value="60%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="663" y="65" width="30" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-372" value="10%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="483" y="170" width="30" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-373" value="10%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="76" y="57.5" width="30" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-390" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1" source="C3zl8ZpjMYid1egTlvav-375" target="C3zl8ZpjMYid1egTlvav-383">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-375" value="Unknown&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt; fault&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-377" value="10%" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
+          <mxGeometry x="316" y="-75" width="30" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-387" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#b85450;fillColor=#f8cecc;" edge="1" parent="1" source="C3zl8ZpjMYid1egTlvav-378">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-378" value="Need of&amp;nbsp;&lt;br&gt;Periodic maintenance" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="195" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-380" value="Advance control system&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="195" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3zl8ZpjMYid1egTlvav-383" value="Require Continous Recording" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-85" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
