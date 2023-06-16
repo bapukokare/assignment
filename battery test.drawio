@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T08:12:07.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" version="21.3.8" etag="0Qry8PGxkG4y99827-hC" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-16T11:41:33.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="kgCk2V2glHMq-phC-Y7o" version="21.3.8" type="github">
   <diagram name="Page-1" id="_TVgYn0nv9GwJ6cSukiW">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8YnO7m6ZAOXYnMxKXuHh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="8YnO7m6ZAOXYnMxKXuHh-1" target="8YnO7m6ZAOXYnMxKXuHh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YnO7m6ZAOXYnMxKXuHh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="8YnO7m6ZAOXYnMxKXuHh-1" target="8YnO7m6ZAOXYnMxKXuHh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YnO7m6ZAOXYnMxKXuHh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="8YnO7m6ZAOXYnMxKXuHh-1" target="8YnO7m6ZAOXYnMxKXuHh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YnO7m6ZAOXYnMxKXuHh-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="8YnO7m6ZAOXYnMxKXuHh-1" target="8YnO7m6ZAOXYnMxKXuHh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YnO7m6ZAOXYnMxKXuHh-1" value="Battery testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8YnO7m6ZAOXYnMxKXuHh-2" value="Thermal" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8YnO7m6ZAOXYnMxKXuHh-4" value="Mechanical&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="140" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8YnO7m6ZAOXYnMxKXuHh-6" value="Chemical" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8YnO7m6ZAOXYnMxKXuHh-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8YnO7m6ZAOXYnMxKXuHh-10" target="8YnO7m6ZAOXYnMxKXuHh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8YnO7m6ZAOXYnMxKXuHh-10" value="Electrical" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8YnO7m6ZAOXYnMxKXuHh-12" value="1. Battery voltage, &lt;br&gt;2. Internal impedance, &lt;br&gt;3. Resistance of components&lt;br&gt;4. charge/discharge profiles" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="574.5" y="42.5" width="165.5" height="95" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
