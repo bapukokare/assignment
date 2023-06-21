@@ -1,18 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T14:48:17.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="2SBbXpnB2t3d_oFsUBvu" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T14:51:04.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="wcxh6Lm9IlvD_cIVkmTY" version="21.5.0" type="github">
   <diagram name="Page-1" id="tcuBk5lwrKn6pOtDavcS">
     <mxGraphModel dx="838" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-1" target="RYXvHmkfxahkaSeMc-fz-16">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-1" target="RYXvHmkfxahkaSeMc-fz-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-1" value="Reinforcement Learning" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-1" value="Reinforcement Learning" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-4" target="RYXvHmkfxahkaSeMc-fz-6">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-4" target="RYXvHmkfxahkaSeMc-fz-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="160" />
@@ -20,10 +20,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-4" target="RYXvHmkfxahkaSeMc-fz-5">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-4" target="RYXvHmkfxahkaSeMc-fz-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-4" target="RYXvHmkfxahkaSeMc-fz-1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-4" target="RYXvHmkfxahkaSeMc-fz-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="140" as="sourcePoint" />
             <Array as="points">
@@ -32,28 +32,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-4" target="RYXvHmkfxahkaSeMc-fz-5">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-4" target="RYXvHmkfxahkaSeMc-fz-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#182E3E;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-4" target="RYXvHmkfxahkaSeMc-fz-5">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-4" target="RYXvHmkfxahkaSeMc-fz-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-4" value="Machine Learning" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-4" value="Machine Learning" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-5" target="RYXvHmkfxahkaSeMc-fz-12">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-5" target="RYXvHmkfxahkaSeMc-fz-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-5" value="Supervised Learning" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-5" value="Supervised Learning" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-6" target="RYXvHmkfxahkaSeMc-fz-14">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-6" target="RYXvHmkfxahkaSeMc-fz-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-6" value="Unsupervised Learning" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-6" value="Unsupervised Learning" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-12" target="RYXvHmkfxahkaSeMc-fz-26">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-12" target="RYXvHmkfxahkaSeMc-fz-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="340" />
@@ -61,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-12" target="RYXvHmkfxahkaSeMc-fz-31">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-12" target="RYXvHmkfxahkaSeMc-fz-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="340" />
@@ -69,10 +69,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-12" value="Labelled data can trained" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-12" value="Labelled data can trained" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-14" target="RYXvHmkfxahkaSeMc-fz-40">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-14" target="RYXvHmkfxahkaSeMc-fz-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="390" />
@@ -80,10 +80,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-14" value="Unlabelled data and find pattern" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-14" value="Unlabelled data and find pattern" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#182E3E;labelBackgroundColor=none;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-16" target="RYXvHmkfxahkaSeMc-fz-17">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeWidth=2;fontColor=default;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-16" target="RYXvHmkfxahkaSeMc-fz-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="390" />
@@ -91,10 +91,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-16" value="State, Agent, Action, Reward, Environment" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-16" value="State, Agent, Action, Reward, Environment" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="560" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#182E3E;labelBackgroundColor=none;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-26" target="RYXvHmkfxahkaSeMc-fz-49">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeWidth=2;fontColor=default;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-26" target="RYXvHmkfxahkaSeMc-fz-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="385" y="390" />
@@ -102,10 +102,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-26" value="Regression" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-26" value="Regression" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="360" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-31" target="RYXvHmkfxahkaSeMc-fz-50">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="RYXvHmkfxahkaSeMc-fz-31" target="RYXvHmkfxahkaSeMc-fz-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="495" y="420" as="targetPoint" />
             <Array as="points">
@@ -114,28 +114,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-31" value="Classification" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-31" value="Classification" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="430" y="360" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-40" value="&lt;ul&gt;&lt;li&gt;K- means clustering&lt;/li&gt;&lt;li&gt;Mean shift clustering&lt;/li&gt;&lt;li&gt;DBSCAN Clustering&amp;nbsp;&lt;/li&gt;&lt;li&gt;Agglomerative hierarchical clustering&lt;/li&gt;&lt;li&gt;Gaussian mixture&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-40" value="&lt;ul&gt;&lt;li&gt;K- means clustering&lt;/li&gt;&lt;li&gt;Mean shift clustering&lt;/li&gt;&lt;li&gt;DBSCAN Clustering&amp;nbsp;&lt;/li&gt;&lt;li&gt;Agglomerative hierarchical clustering&lt;/li&gt;&lt;li&gt;Gaussian mixture&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="414" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-48" value="" style="group;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-48" value="" style="group;labelBackgroundColor=none;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="585" y="414" width="253" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-49" value="&lt;ul&gt;&lt;li&gt;Linear Regression&lt;/li&gt;&lt;li&gt;Neural Network regression&lt;/li&gt;&lt;li&gt;Support Vector regression&lt;/li&gt;&lt;li&gt;Decision Tress Regression&lt;/li&gt;&lt;li&gt;Lasso Regression&lt;/li&gt;&lt;li&gt;Ridge Regression&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="RYXvHmkfxahkaSeMc-fz-48">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-49" value="&lt;ul&gt;&lt;li&gt;Linear Regression&lt;/li&gt;&lt;li&gt;Neural Network regression&lt;/li&gt;&lt;li&gt;Support Vector regression&lt;/li&gt;&lt;li&gt;Decision Tress Regression&lt;/li&gt;&lt;li&gt;Lasso Regression&lt;/li&gt;&lt;li&gt;Ridge Regression&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;labelBackgroundColor=none;" vertex="1" parent="RYXvHmkfxahkaSeMc-fz-48">
           <mxGeometry x="-327" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-51" value="" style="group;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="RYXvHmkfxahkaSeMc-fz-48">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-51" value="" style="group;labelBackgroundColor=none;" vertex="1" connectable="0" parent="RYXvHmkfxahkaSeMc-fz-48">
           <mxGeometry x="-7" width="250" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-17" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="RYXvHmkfxahkaSeMc-fz-51">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-17" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="RYXvHmkfxahkaSeMc-fz-51">
           <mxGeometry x="10" width="210" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-25" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.mdpi.com/applsci/applsci-12-12377/article_deploy/html/images/applsci-12-12377-g001.png;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="RYXvHmkfxahkaSeMc-fz-51">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-25" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.mdpi.com/applsci/applsci-12-12377/article_deploy/html/images/applsci-12-12377-g001.png;labelBackgroundColor=none;" vertex="1" parent="RYXvHmkfxahkaSeMc-fz-51">
           <mxGeometry x="17.87" y="10" width="194.26" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="RYXvHmkfxahkaSeMc-fz-50" value="&lt;ul&gt;&lt;li&gt;Naives bayes Classifier&lt;/li&gt;&lt;li&gt;Decision Tree&amp;nbsp;&lt;/li&gt;&lt;li&gt;Support Vector machine&lt;/li&gt;&lt;li&gt;Random Forest&amp;nbsp;&lt;/li&gt;&lt;li&gt;K- nearest neighbors&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="RYXvHmkfxahkaSeMc-fz-50" value="&lt;ul&gt;&lt;li&gt;Naives bayes Classifier&lt;/li&gt;&lt;li&gt;Decision Tree&amp;nbsp;&lt;/li&gt;&lt;li&gt;Support Vector machine&lt;/li&gt;&lt;li&gt;Random Forest&amp;nbsp;&lt;/li&gt;&lt;li&gt;K- nearest neighbors&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="420" y="414" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
