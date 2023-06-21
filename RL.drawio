@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T14:44:09.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="XeTOAa-mUy60cOXaUXIy" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-21T14:46:09.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="vR9cKpDO4KczNbdejuhU" version="21.5.0" type="github">
   <diagram name="Page-1" id="tcuBk5lwrKn6pOtDavcS">
     <mxGraphModel dx="880" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -116,7 +116,7 @@
           <mxGeometry x="100" y="414" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RYXvHmkfxahkaSeMc-fz-48" value="" style="group;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="584.5" y="414" width="253" height="150" as="geometry" />
+          <mxGeometry x="585" y="414" width="253" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RYXvHmkfxahkaSeMc-fz-49" value="&lt;ul&gt;&lt;li&gt;Linear Regression&lt;/li&gt;&lt;li&gt;Neural Network regression&lt;/li&gt;&lt;li&gt;Support Vector regression&lt;/li&gt;&lt;li&gt;Decision Tress Regression&lt;/li&gt;&lt;li&gt;Lasso Regression&lt;/li&gt;&lt;li&gt;Ridge Regression&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="RYXvHmkfxahkaSeMc-fz-48">
           <mxGeometry x="-327" width="150" height="150" as="geometry" />
@@ -125,10 +125,10 @@
           <mxGeometry x="-7" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RYXvHmkfxahkaSeMc-fz-17" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="RYXvHmkfxahkaSeMc-fz-51">
-          <mxGeometry width="230" height="150" as="geometry" />
+          <mxGeometry x="10" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="RYXvHmkfxahkaSeMc-fz-25" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.mdpi.com/applsci/applsci-12-12377/article_deploy/html/images/applsci-12-12377-g001.png;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="RYXvHmkfxahkaSeMc-fz-51">
-          <mxGeometry x="19.05" y="10" width="194.26" height="130" as="geometry" />
+          <mxGeometry x="17.87" y="10" width="194.26" height="130" as="geometry" />
         </mxCell>
         <mxCell id="RYXvHmkfxahkaSeMc-fz-50" value="&lt;ul&gt;&lt;li&gt;Naives bayes Classifier&lt;/li&gt;&lt;li&gt;Decision Tree&amp;nbsp;&lt;/li&gt;&lt;li&gt;Support Vector machine&lt;/li&gt;&lt;li&gt;Random Forest&amp;nbsp;&lt;/li&gt;&lt;li&gt;K- nearest neighbors&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;labelBackgroundColor=none;fillColor=#56517E;strokeColor=#EEEEEE;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="420" y="414" width="150" height="150" as="geometry" />
