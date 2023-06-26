@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-26T05:43:23.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="U4LwV0ygDGyL1jXNqTv3" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T05:56:22.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="XklXN29kQcP3QUNG2AqQ" version="21.5.0" type="github">
   <diagram name="Page-1" id="gkxozptTYt2ciQcDv7WW">
-    <mxGraphModel dx="880" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kmEU4RtZfLV5vz7zgQsj-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Spawn_object:&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a. ego_vehicle,&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;b. non ego_vehicle&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;c. pedestrian&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Apply vehicle control to move forward(speed of non ego &amp;gt;ego vehicle&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Check and use data available over node topic by&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. if next object distance is less than safe distance then apply brake&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. Else apply the control&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="590" y="355" width="220.07829999999998" height="230" as="geometry" />
+          <mxGeometry x="590" y="355" width="220" height="230" as="geometry" />
         </mxCell>
         <mxCell id="kmEU4RtZfLV5vz7zgQsj-23" value="Float64" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="247" width="60" height="30" as="geometry" />
@@ -66,7 +66,7 @@
         <mxCell id="kmEU4RtZfLV5vz7zgQsj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kmEU4RtZfLV5vz7zgQsj-34" target="kmEU4RtZfLV5vz7zgQsj-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-34" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Check actor name ego_vehicle&amp;nbsp; availability in Carla server.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Attach Radar Sensor and set sensor Infront of vehicle.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. Calculate Distance Next object&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4. Init publisher and update after every time interval&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5. Send safe distance data to node topic&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-34" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Check actor name ego_vehicle&amp;nbsp; availability in Carla server.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Attach Radar Sensor and set sensor Infront of vehicle.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;3. Calculate Distance Next&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;object&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4. Init publisher and update after every time interval&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5. Send safe distance data to node topic&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="149.96" y="355" width="220.07829999999998" height="230" as="geometry" />
         </mxCell>
         <mxCell id="kmEU4RtZfLV5vz7zgQsj-42" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://docs.ros.org/.artwork/distributions/foxy.png;" parent="1" vertex="1">
@@ -86,6 +86,27 @@
         </mxCell>
         <mxCell id="FMZLGNF3zAswFZm-I-m4-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-190/1000/carrier_office_people_person_people_carrier_people_business_success-128.png" vertex="1" parent="1">
           <mxGeometry x="624.5" y="385.5" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="FMZLGNF3zAswFZm-I-m4-3" value="" style="shape=mxgraph.signs.people.pedestrian;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="601" y="385" width="20" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="FMZLGNF3zAswFZm-I-m4-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/48.Dashboard-128.png" vertex="1" parent="1">
+          <mxGeometry x="592" y="430" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="FMZLGNF3zAswFZm-I-m4-6" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=content_router;fillColor=#FAFAFA;strokeColor=#005073;" vertex="1" parent="1">
+          <mxGeometry x="153" y="421.5" width="36.48" height="28.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FMZLGNF3zAswFZm-I-m4-7" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="153" y="361.5" width="37" height="38.5" as="geometry" />
+        </mxCell>
+        <mxCell id="FMZLGNF3zAswFZm-I-m4-8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSOed-txVVvJkCMogX9M6SI0UIF9WnwkLk5Go4k1CN0w&amp;s;" vertex="1" parent="1">
+          <mxGeometry x="151" y="452" width="59.25" height="39.52" as="geometry" />
+        </mxCell>
+        <mxCell id="FMZLGNF3zAswFZm-I-m4-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://www.nissan-global.com/JP/INNOVATION/TECHNOLOGY/ARCHIVE/ASSETS/IMG/f52a523e050ee4.jpg;" vertex="1" parent="1">
+          <mxGeometry x="310" y="174.65" width="95.31" height="55.35" as="geometry" />
+        </mxCell>
+        <mxCell id="FMZLGNF3zAswFZm-I-m4-10" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://images.ctfassets.net/2sam6k0rncvg/XowULoWWkHPcqJ0EejpEt/20e7b6772f41c144f35317647485d748/autonomous-emergency-braking-aeb-in-cars.png;" vertex="1" parent="1">
+          <mxGeometry x="200" y="174.65" width="120.92" height="55.35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
