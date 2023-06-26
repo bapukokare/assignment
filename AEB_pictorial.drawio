@@ -1,85 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T12:41:38.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.43" etag="59MDeZG7UBurW9Lbmy8i" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T05:43:23.204Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="U4LwV0ygDGyL1jXNqTv3" version="21.5.0" type="github">
   <diagram name="Page-1" id="gkxozptTYt2ciQcDv7WW">
     <mxGraphModel dx="880" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="100" y="170" width="740" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="120" y="200" width="720" height="440" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-3" value="Linux Ubuntu 20.04&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-3" value="Linux Ubuntu 20.04&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="170" width="170" height="30" as="geometry" />
         </mxCell>
         <UserObject label="" id="kmEU4RtZfLV5vz7zgQsj-4">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
             <mxGeometry x="120" y="230" width="720" height="410" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-5" value="ROS2 Foxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-5" value="ROS2 Foxy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="200" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kmEU4RtZfLV5vz7zgQsj-6" target="kmEU4RtZfLV5vz7zgQsj-12">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="kmEU4RtZfLV5vz7zgQsj-6" target="kmEU4RtZfLV5vz7zgQsj-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-6" value="ROS2 Node Publisher" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-6" value="ROS2 Node Publisher" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kmEU4RtZfLV5vz7zgQsj-6" target="kmEU4RtZfLV5vz7zgQsj-34">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="kmEU4RtZfLV5vz7zgQsj-6" target="kmEU4RtZfLV5vz7zgQsj-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="320" as="sourcePoint" />
             <mxPoint x="260" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmEU4RtZfLV5vz7zgQsj-7" target="kmEU4RtZfLV5vz7zgQsj-16">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kmEU4RtZfLV5vz7zgQsj-7" target="kmEU4RtZfLV5vz7zgQsj-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-7" value="ROS2 Node subscriber" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-7" value="ROS2 Node subscriber" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmEU4RtZfLV5vz7zgQsj-12" target="kmEU4RtZfLV5vz7zgQsj-7">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kmEU4RtZfLV5vz7zgQsj-12" target="kmEU4RtZfLV5vz7zgQsj-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-12" value="/topic" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-12" value="/topic" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmEU4RtZfLV5vz7zgQsj-16" target="kmEU4RtZfLV5vz7zgQsj-29">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kmEU4RtZfLV5vz7zgQsj-16" target="kmEU4RtZfLV5vz7zgQsj-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Spawn_object:&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a. ego_vehicle,&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;b. non ego_vehicle&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;c. pedestrian&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Apply vehicle control to move forward(speed of non ego &amp;gt;ego vehicle&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Check and use data available over node topic by&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. if next object distance is less than safe distance then apply brake&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. Else apply the control&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Spawn_object:&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a. ego_vehicle,&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;b. non ego_vehicle&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;c. pedestrian&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Apply vehicle control to move forward(speed of non ego &amp;gt;ego vehicle&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3. Check and use data available over node topic by&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4. if next object distance is less than safe distance then apply brake&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5. Else apply the control&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="355" width="220.07829999999998" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-23" value="Float64" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-23" value="Float64" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="247" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-24" value="Float64" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-24" value="Float64" style="text;html=1;strokeColor=#36393d;fillColor=#ffff88;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="247" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmEU4RtZfLV5vz7zgQsj-29" target="kmEU4RtZfLV5vz7zgQsj-16">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kmEU4RtZfLV5vz7zgQsj-29" target="kmEU4RtZfLV5vz7zgQsj-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kmEU4RtZfLV5vz7zgQsj-29" target="kmEU4RtZfLV5vz7zgQsj-34">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kmEU4RtZfLV5vz7zgQsj-29" target="kmEU4RtZfLV5vz7zgQsj-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmEU4RtZfLV5vz7zgQsj-34" target="kmEU4RtZfLV5vz7zgQsj-29">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="kmEU4RtZfLV5vz7zgQsj-34" target="kmEU4RtZfLV5vz7zgQsj-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-34" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Check actor name ego_vehicle&amp;nbsp; availability in Carla server.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Attach Radar Sensor and set sensor Infront of vehicle.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. Calculate Distance Next object&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4. Init publisher and update after every time interval&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5. Send safe distance data to node topic&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-34" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Check actor name ego_vehicle&amp;nbsp; availability in Carla server.&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Attach Radar Sensor and set sensor Infront of vehicle.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. Calculate Distance Next object&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4. Init publisher and update after every time interval&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5. Send safe distance data to node topic&lt;/div&gt;&lt;/blockquote&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="149.96" y="355" width="220.07829999999998" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-42" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://docs.ros.org/.artwork/distributions/foxy.png;" vertex="1" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-42" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://docs.ros.org/.artwork/distributions/foxy.png;" parent="1" vertex="1">
           <mxGeometry x="522.5" y="205.41" width="16.5" height="19.59" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-44" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-44" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="420" y="430" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-29" value="Carla server&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="kmEU4RtZfLV5vz7zgQsj-44">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-29" value="Carla server&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;" parent="kmEU4RtZfLV5vz7zgQsj-44" vertex="1">
           <mxGeometry width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kmEU4RtZfLV5vz7zgQsj-39" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq2TRPdiRm2MCNMWQlpk5-IubF3Qj8Mp1YopsVXpFD6Q&amp;s;" vertex="1" parent="kmEU4RtZfLV5vz7zgQsj-44">
+        <mxCell id="kmEU4RtZfLV5vz7zgQsj-39" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq2TRPdiRm2MCNMWQlpk5-IubF3Qj8Mp1YopsVXpFD6Q&amp;s;" parent="kmEU4RtZfLV5vz7zgQsj-44" vertex="1">
           <mxGeometry x="2.5500000000000114" y="5" width="124.9" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FMZLGNF3zAswFZm-I-m4-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-and-vehicle/128/Transportation_And_Vehicle_3-10-128.png" vertex="1" parent="1">
+          <mxGeometry x="630" y="370" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="FMZLGNF3zAswFZm-I-m4-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/transportation-190/1000/carrier_office_people_person_people_carrier_people_business_success-128.png" vertex="1" parent="1">
+          <mxGeometry x="624.5" y="385.5" width="39" height="39" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
