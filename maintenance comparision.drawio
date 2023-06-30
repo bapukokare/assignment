@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T13:22:45.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="h6Yvw0tEZwKRMedqOuS6" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-30T14:46:55.601Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="1BSPCJzvCIrZdbr4VXL2" version="21.5.0" type="github">
   <diagram name="Page-1" id="16Q1cNrQv2rdTrqkt40l">
-    <mxGraphModel dx="1257" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="622" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a_WVWsSqcVNzdaxwtKmt-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a_WVWsSqcVNzdaxwtKmt-16" target="a_WVWsSqcVNzdaxwtKmt-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a_WVWsSqcVNzdaxwtKmt-16" value="Mush Have" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-16" value="Must Have" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a_WVWsSqcVNzdaxwtKmt-17" value="MBD knowledge, MIL, SIL, PIL, Autosar Application development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -184,8 +184,9 @@
         <mxCell id="a_WVWsSqcVNzdaxwtKmt-90" value="concept of ensuring system or device &lt;br&gt;can operate safely, without causing harm to individuals or the environment, &lt;br&gt;even in the presence of faults or failures.&amp;nbsp;It is particularly crucial in safety-critical industries such as automotive, aerospace, medical, and industrial automation." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a_WVWsSqcVNzdaxwtKmt-116">
           <mxGeometry x="130.08" y="25" width="620" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a_WVWsSqcVNzdaxwtKmt-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="a_WVWsSqcVNzdaxwtKmt-116" source="a_WVWsSqcVNzdaxwtKmt-88" target="a_WVWsSqcVNzdaxwtKmt-90">
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="a_WVWsSqcVNzdaxwtKmt-116" source="a_WVWsSqcVNzdaxwtKmt-88">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="50" as="targetPoint" />
             <Array as="points">
               <mxPoint x="110" y="125" />
               <mxPoint x="110" y="50" />
@@ -251,6 +252,39 @@
         </mxCell>
         <mxCell id="a_WVWsSqcVNzdaxwtKmt-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="a_WVWsSqcVNzdaxwtKmt-116" source="a_WVWsSqcVNzdaxwtKmt-88" target="a_WVWsSqcVNzdaxwtKmt-101">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-139" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="790" width="351.5" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-124" value="" style="shape=mxgraph.signs.healthcare.brain;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;container=0;" vertex="1" parent="a_WVWsSqcVNzdaxwtKmt-139">
+          <mxGeometry x="160" y="32.5" width="58" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.044;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="a_WVWsSqcVNzdaxwtKmt-139" source="a_WVWsSqcVNzdaxwtKmt-125" target="a_WVWsSqcVNzdaxwtKmt-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-125" value="" style="shape=mxgraph.signs.healthcare.eye;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;container=0;" vertex="1" parent="a_WVWsSqcVNzdaxwtKmt-139">
+          <mxGeometry y="30" width="99" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-129" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/female-styles/500/woman-driving-128.png;container=0;" vertex="1" parent="a_WVWsSqcVNzdaxwtKmt-139">
+          <mxGeometry x="280" y="24.25" width="71.5" height="71.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-130" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="a_WVWsSqcVNzdaxwtKmt-139" source="a_WVWsSqcVNzdaxwtKmt-124" target="a_WVWsSqcVNzdaxwtKmt-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-131" value="Sense" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="a_WVWsSqcVNzdaxwtKmt-139">
+          <mxGeometry x="19.5" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-132" value="Think" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="a_WVWsSqcVNzdaxwtKmt-139">
+          <mxGeometry x="170" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-133" value="Act" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="a_WVWsSqcVNzdaxwtKmt-139">
+          <mxGeometry x="285.75" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-135" value="Autonomous Driving" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="a_WVWsSqcVNzdaxwtKmt-139">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a_WVWsSqcVNzdaxwtKmt-138" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/navigation-and-mapping-1/65/path-128.png;container=0;" vertex="1" parent="a_WVWsSqcVNzdaxwtKmt-139">
+          <mxGeometry x="277" width="38" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
