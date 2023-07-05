@@ -1,65 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T11:07:18.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="9KM5up5kuGzPFMiOvz2J" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-05T04:27:48.986Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.67" etag="KhCOndoJthMoJMUjsq8p" version="21.5.2" type="github">
   <diagram name="Page-1" id="qfpwBZO-rxQUD2Wml51f">
-    <mxGraphModel dx="1173" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="926" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Zzse764Qpx6yecXEAyOF-14" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="280" y="50" width="550" height="644.23" as="geometry" />
+        </mxCell>
+        <mxCell id="Zzse764Qpx6yecXEAyOF-15" value="Create Machine learning &amp;amp; use the model&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="Zzse764Qpx6yecXEAyOF-1" value="Traditional Programming" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="280" y="20" width="210" height="110" as="geometry" />
+          <mxGeometry x="460" y="50" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Zzse764Qpx6yecXEAyOF-2" value="Rules" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.009;entryY=0.191;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fa6800;strokeColor=#C73500;fontSize=19;" edge="1" parent="1" target="Zzse764Qpx6yecXEAyOF-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="40" as="sourcePoint" />
-            <mxPoint x="520" y="200" as="targetPoint" />
+            <mxPoint x="280" y="70" as="sourcePoint" />
+            <mxPoint x="700" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zzse764Qpx6yecXEAyOF-3" value="Data" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;fontSize=19;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="110" as="sourcePoint" />
-            <mxPoint x="280" y="110" as="targetPoint" />
+            <mxPoint x="280" y="140" as="sourcePoint" />
+            <mxPoint x="460" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zzse764Qpx6yecXEAyOF-4" value="Answers&amp;nbsp;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#e3c800;strokeColor=#B09500;fontSize=19;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="74.74" as="sourcePoint" />
-            <mxPoint x="650" y="75" as="targetPoint" />
+            <mxPoint x="670" y="104.74" as="sourcePoint" />
+            <mxPoint x="830" y="105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zzse764Qpx6yecXEAyOF-5" value="Machine Learning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="280" y="170" width="210" height="110" as="geometry" />
+          <mxGeometry x="460" y="200" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Zzse764Qpx6yecXEAyOF-6" value="Answers" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=-0.009;entryY=0.191;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e3c800;strokeColor=#B09500;fontSize=19;" edge="1" parent="1" target="Zzse764Qpx6yecXEAyOF-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="190" as="sourcePoint" />
-            <mxPoint x="520" y="350" as="targetPoint" />
+            <mxPoint x="280" y="220" as="sourcePoint" />
+            <mxPoint x="700" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zzse764Qpx6yecXEAyOF-7" value="Data" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;fontSize=19;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="260" as="sourcePoint" />
-            <mxPoint x="280" y="260" as="targetPoint" />
+            <mxPoint x="280" y="290" as="sourcePoint" />
+            <mxPoint x="460" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zzse764Qpx6yecXEAyOF-8" value="Rules" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#fa6800;strokeColor=#C73500;fontSize=19;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="224.74" as="sourcePoint" />
-            <mxPoint x="650" y="225" as="targetPoint" />
+            <mxPoint x="670" y="254.74" as="sourcePoint" />
+            <mxPoint x="830" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zzse764Qpx6yecXEAyOF-9" value="Model" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="280" y="300" width="210" height="110" as="geometry" />
+          <mxGeometry x="460" y="330" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Zzse764Qpx6yecXEAyOF-11" value="Data" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#76608a;strokeColor=#432D57;fontSize=19;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="354.58" as="sourcePoint" />
-            <mxPoint x="280" y="354.58" as="targetPoint" />
+            <mxPoint x="280" y="384.58" as="sourcePoint" />
+            <mxPoint x="460" y="384.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Zzse764Qpx6yecXEAyOF-12" value="Predictions" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;fontSize=19;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="354.74" as="sourcePoint" />
-            <mxPoint x="650" y="355" as="targetPoint" />
+            <mxPoint x="670" y="384.74" as="sourcePoint" />
+            <mxPoint x="830" y="385" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Zzse764Qpx6yecXEAyOF-13" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.qwiklabs.com/nML6G5KiljUvOjdQ4%2FQgtRZFW2FH22MIzuYAR4siAy4%3D;" vertex="1" parent="1">
+          <mxGeometry x="297.45" y="469" width="515.11" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
